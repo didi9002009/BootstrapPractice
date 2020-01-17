@@ -1,2 +1,0 @@
-# BootstrapPractice
-Created with CodeSandbox
