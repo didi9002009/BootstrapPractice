@@ -2,7 +2,11 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
-a {
-  font-size: 4rem;
-  color: coral;
+/* #skills{
+  padding: 200px 0!important;   
+} */
+
+.height {
+  /* height: 1000px; */
+  min-height: 100vh;
 }
